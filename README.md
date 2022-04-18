@@ -2,7 +2,7 @@
 
 Se dau clasele: 
 1. Locuință (string numeClient, int suprafataUtila, float discount) 
-2.Apartament (int etaj) : Locuinta 
+2. Apartament (int etaj) : Locuinta 
 3. Casa (int suprafataCurte) : Locuinta 
 
 - La clasa **Locuinta** se va adauga metoda virtuala pura **CalculChirie (X,Y)** 
